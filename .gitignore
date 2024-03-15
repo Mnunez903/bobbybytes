@@ -8,7 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+# Going to try and see if I can get away with making a public site with dist
+# dist
 dist-ssr
 *.local
 
